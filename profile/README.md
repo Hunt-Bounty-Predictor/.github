@@ -1,4 +1,4 @@
-##Welcome to the Hunt Showdown Bounty Predictor (BP)!
+## Welcome to the Hunt Showdown Bounty Predictor (BP)!
           
 This program will send screenshots of your Hunt Showdown games to the server.
 This program will only capture screenshots of the hunt showdown game window.
