@@ -8,7 +8,8 @@ This program does moniter keyboard input, but it does not send any of your keybo
 It only cares about single key presses of the 'f10' and 'f11' keys.
 
 If you are worried about your privacy, you can look at the source code of this program.
-https://github.com/Hunt-Bounty-Predictor
+https://github.com/Hunt-Bounty-Predictor. The software only take screenshots of Hunt, and only when you
+press the designated capture keys. In the instance a non Hunt screenshot is captured, it is discarded.
 
 The server is located at server.oms.bio.
 I run this server personally on my own hardware, so please don't abuse it.
