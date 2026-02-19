@@ -19,6 +19,6 @@ This program will run in the background and will send a screenshot when you pres
 You can exit the program by pressing the 'f11' key.
 
 This program will not get you banned, I have contacted Crytek about the program. The transcript attached is below.
-![Crytek Support Transcript](profile/Hunt_Showdown_Screenshots.pdf)
+![Crytek Support Transcript](./Hunt_Showdown_Screenshots.pdf)
 
 I do not store any personal information from you or your machine. I only collect the name you give me and the images sent to me.
